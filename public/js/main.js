@@ -14,7 +14,7 @@ var pcConfig = turnConfig;
 
 var localStreamConstraints = {
     audio: true,
-    video: true
+    video: false
   };
 
 
