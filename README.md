@@ -4,7 +4,7 @@
 ## Running the app on development server
 * `npm install`
 * `node index.js`
-* open `localhost:8000`
+* open `localhost:80`
 
 ## Obtaining TURN/STUN credentials using Xiysys
 * Do not use the credentials provided
